@@ -1,3 +1,3 @@
 Babar
 ===================
-Babar es una forma sencilla y rápida de iniciar un proyecto en **PHP**
+Babar es una forma sencilla y rápida de iniciar proyectos en **PHP**
